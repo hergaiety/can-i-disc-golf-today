@@ -1,0 +1,11 @@
+{
+  "name": "can-i-disc-golf-this-weekend",
+  "version": "1.0.0",
+  "description": "A Webtask ready api ready to tell you if the weather looks good for Disc Golfing this weekend.",
+  "main": "app.js",
+  "author": "Joe Wroten <sharpshark28@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
